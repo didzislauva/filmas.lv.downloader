@@ -57,7 +57,8 @@ python main.py
 
 ## Screenshots
 
-*(Add screenshots here to demonstrate the GUI and process)*
+![image](https://github.com/user-attachments/assets/194657e3-fb66-4c32-9944-8016bd46d733)
+
 
 ## Contributions
 
